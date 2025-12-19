@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tutict&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tutict&show_icons=true&theme=transparent) [![GitHub Streak](https://streak-stats.demolab.com/?user=tutict)](https://git.io/streak-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tutict&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **tutict/tutict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
