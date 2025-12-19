@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuict)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tutict)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuict)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tutict&show_icons=true&theme=transparent)
 
 
 <!--
