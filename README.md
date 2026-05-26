@@ -13,22 +13,28 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=28D7B5&center=true&vCenter=true&width=760&lines=Build+systems+that+connect+mobile%2C+backend%2C+and+AI.;Explore+AI+workflow%2C+prompt+orchestration%2C+and+agent+repair.;Keep+tools+sharp%3A+Emacs%2C+Vim%2C+CI%2FCD." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=28D7B5&center=true&vCenter=true&width=760&lines=From+idea+to+running+system.;%E7%94%A8%E4%BB%A3%E7%A0%81%E6%8A%8A%E6%83%B3%E6%B3%95%E8%90%BD%E6%88%90%E5%8F%AF%E8%BF%90%E8%A1%8C%E7%9A%84%E7%B3%BB%E7%BB%9F.;AI+workflow+%7C+Flutter+%7C+Java+%7C+Tooling." alt="Typing SVG" />
 </p>
 
-## About
+## About / 关于我
 
-我是 **Tutict White**，GitHub ID 是 [`tutict`](https://github.com/tutict)。我更偏向把想法落成能运行、能迭代的系统：从 Flutter 前端、Java 后端，到 AI 工作流、Prompt-to-Playable、编辑器配置和自动化脚本。
+**中文**
+
+我是 **Tutict White**，GitHub ID 是 [`tutict`](https://github.com/tutict)。我关注把想法拆成可以运行、可以迭代、可以维护的系统：从 Flutter 移动端、Java 后端服务，到 AI 工作流、Prompt-to-Playable 实验，再到编辑器配置、CI/CD 和自动化脚本。
+
+**English**
+
+I am **Tutict White**, known as [`tutict`](https://github.com/tutict) on GitHub. I focus on turning ideas into systems that can run, evolve, and stay maintainable: Flutter mobile clients, Java backend services, AI workflow orchestration, Prompt-to-Playable experiments, editor setups, CI/CD, and automation scripts.
 
 > 钱冇样衰人戆居
 
-## Focus
+## Focus / 关注方向
 
-| Direction | What I build | Representative work |
+| Direction / 方向 | What I build / 构建内容 | Representative work / 代表项目 |
 | --- | --- | --- |
-| Product systems | 业务流程、移动端体验、后端服务与管理后台 | [`Final-Assignment`](https://github.com/tutict/Final-Assignment), [`neusoft-hospital`](https://github.com/tutict/neusoft-hospital) |
-| AI workflow | Prompt 编排、执行图、agent 自动修复与 AI 原生工具 | [`enterprise-insight-platform`](https://github.com/tutict/enterprise-insight-platform), [`Fantasy-Agent`](https://github.com/tutict/Fantasy-Agent) |
-| Developer tools | 编辑器配置、CI/CD、脚本化部署与知识手册 | [`.emacs.d`](https://github.com/tutict/.emacs.d), [`vim-settings`](https://github.com/tutict/vim-settings), [`Auto-deployment`](https://github.com/tutict/Auto-deployment) |
+| Product systems / 产品系统 | 业务流程、移动端体验、后端服务与管理后台<br/>Business workflows, mobile experience, backend services, and admin tools. | [`Final-Assignment`](https://github.com/tutict/Final-Assignment), [`neusoft-hospital`](https://github.com/tutict/neusoft-hospital) |
+| AI workflow / AI 工作流 | Prompt 编排、执行图、agent 自动修复与 AI 原生工具<br/>Prompt orchestration, execution graphs, agent auto-repair, and AI-native tools. | [`enterprise-insight-platform`](https://github.com/tutict/enterprise-insight-platform), [`Fantasy-Agent`](https://github.com/tutict/Fantasy-Agent) |
+| Developer tools / 开发工具 | 编辑器配置、CI/CD、脚本化部署与知识手册<br/>Editor setups, CI/CD scripts, deployment automation, and practical knowledge bases. | [`.emacs.d`](https://github.com/tutict/.emacs.d), [`vim-settings`](https://github.com/tutict/vim-settings), [`Auto-deployment`](https://github.com/tutict/Auto-deployment) |
 
 ## Tech Stack
 
@@ -75,15 +81,15 @@
   </tr>
 </table>
 
-## Project Notes
+## Project Notes / 项目说明
 
-| Project | Notes |
-| --- | --- |
-| [`Final-Assignment`](https://github.com/tutict/Final-Assignment) | 交通违法处理管理系统，Flutter 前端与 Java 后端组合，毕业设计项目。 |
-| [`Fantasy-Agent`](https://github.com/tutict/Fantasy-Agent) | AI-native Prompt-to-Playable Game Studio，把提示词转成可玩的游戏原型。 |
-| [`enterprise-insight-platform`](https://github.com/tutict/enterprise-insight-platform) | AI workflow builder，覆盖 prompt orchestration、execution graph 与 agent auto-repair。 |
-| [`emacs-lisp-reference-manual-zh_cn`](https://github.com/tutict/emacs-lisp-reference-manual-zh_cn) | Emacs Lisp 中文手册，面向移动端阅读体验整理内容。 |
-| [`.emacs.d`](https://github.com/tutict/.emacs.d) / [`vim-settings`](https://github.com/tutict/vim-settings) | 长期自用编辑器配置，关注日常开发效率。 |
+| Project | 中文 | English |
+| --- | --- | --- |
+| [`Final-Assignment`](https://github.com/tutict/Final-Assignment) | 交通违法处理管理系统，基于 Flutter 前端和 Java 后端，用于大学毕业设计。 | A traffic-violation management system built with a Flutter frontend and Java backend for a graduation project. |
+| [`Fantasy-Agent`](https://github.com/tutict/Fantasy-Agent) | AI 原生 Prompt-to-Playable Game Studio，将提示词推进到可玩的游戏原型。 | An AI-native Prompt-to-Playable game studio for turning prompts into playable prototypes. |
+| [`enterprise-insight-platform`](https://github.com/tutict/enterprise-insight-platform) | AI 工作流构建器，覆盖 prompt 编排、执行图和 agent 自动修复。 | An AI workflow builder covering prompt orchestration, execution graphs, and agent auto-repair. |
+| [`emacs-lisp-reference-manual-zh_cn`](https://github.com/tutict/emacs-lisp-reference-manual-zh_cn) | Emacs Lisp 中文手册，整理为更适合手机端阅读的参考内容。 | A Chinese Emacs Lisp reference manual arranged for lightweight mobile reading. |
+| [`.emacs.d`](https://github.com/tutict/.emacs.d) / [`vim-settings`](https://github.com/tutict/vim-settings) | 长期自用编辑器配置，关注日常开发效率和可迁移工作流。 | Personal editor setups shaped around daily productivity and portable workflows. |
 
 ## GitHub Pulse
 
