@@ -94,7 +94,7 @@ I am **Tutict White**, known as [`tutict`](https://github.com/tutict) on GitHub.
 ## GitHub Pulse
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tutict&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D1B2&text_color=CDD9E5&icon_color=F5D061" alt="GitHub stats" />
+  <img height="165" src="assets/github-pulse.svg" alt="GitHub profile summary" />
   <img height="165" src="https://streak-stats.demolab.com?user=tutict&theme=dark&hide_border=true&background=0D1117&ring=00D1B2&fire=F5D061&currStreakLabel=00D1B2" alt="GitHub streak" />
 </p>
 
