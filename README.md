@@ -1,133 +1,124 @@
-﻿<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,45:1a5490,100:58a6ff&text=Tutict%20White&fontColor=c9d1d9&fontSize=50&fontAlignY=35&desc=AI%20Systems%20%7C%20Local-first%20Tools%20%7C%20Flutter%20%2B%20Java%20%2B%20Python&descSize=16&descAlignY=54&animation=fadeIn" alt="Header" />
+<div align="center">
+  <img width="100%" src="./assets/github-pulse.svg" alt="Tutict engineering loop: idea, build, verify, ship" />
 </div>
 
+<h1 align="center">Tutict White</h1>
+
 <p align="center">
-  <a href="https://github.com/tutict?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-22-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-  </a>
-  <a href="https://github.com/tutict">
-    <img src="https://img.shields.io/github/followers/tutict?style=for-the-badge&label=Followers&color=1a5490&logo=github" alt="Followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=tutict&style=for-the-badge&color=58a6ff" alt="Views" />
+  <strong>把想法推进成可运行、可验证、可维护的系统。</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=58a6ff&center=true&vCenter=true&width=800&lines=Build+ideas+into+running+systems;AI+agents+%E2%80%A2+Workflow+tools+%E2%80%A2+Desktop+apps;%E6%8A%8A%E6%83%B3%E6%B3%95%E8%90%BD%E5%88%B0%E5%8F%AF%E8%BF%90%E8%A1%8C%E3%80%81%E5%8F%AF%E9%AA%8C%E8%AF%81%E3%80%81%E5%8F%AF%E7%BB%B4%E6%8A%A4%E7%9A%84%E5%B7%A5%E7%A8%8B%E9%87%8C" alt="Typing SVG" />
+  <code>AI systems</code> · <code>local-first tools</code> · <code>product engineering</code>
 </p>
-
-## About / 关于我
-
-**中文** — 我是 **Tutict White**，GitHub ID 是 [`tutict`](https://github.com/tutict)。我关注把想法推进成可运行、可验证、可维护的系统：从 AI 工作流、金融研究智能体、本地桌面 Agent 工作台，到 Flutter 移动端、Java/Quarkus 后端和自动化工具链。
-
-**English** — I am **Tutict White**, known as [`tutict`](https://github.com/tutict) on GitHub. I build practical systems that turn ideas into runnable, testable, and maintainable software: AI workflow platforms, financial research agents, local-first desktop agent workbenches, Flutter clients, Java/Quarkus services, and automation tooling.
-
-> 钱冇样衰人戆居
-
-## Current Focus / 当前重点
-
-| Direction / 方向 | What I build / 构建内容 | Representative work / 代表项目 |
-| --- | --- | --- |
-| AI agents & workflow / AI 智能体与工作流 | Agent 编排、交付运行记录、Prompt-to-Playable、RAG 和验证修复闭环<br/>Agent orchestration, delivery runs, Prompt-to-Playable, RAG, and verify-repair loops | [`gp-assistant`](https://github.com/tutict/gp-assistant), [`enterprise-insight-platform`](https://github.com/tutict/enterprise-insight-platform), [`Fantasy-Agent`](https://github.com/tutict/Fantasy-Agent) |
-| Local-first desktop tools / 本地优先桌面工具 | Tauri/Rust/React 桌面工作台、本地持久化、安全配置、离线可用能力<br/>Desktop workbenches, local persistence, secure settings, and offline-friendly flows | [`MMGH`](https://github.com/tutict/MMGH), [`DevQRH`](https://github.com/tutict/DevQRH), [`MicroFlow`](https://github.com/tutict/MicroFlow) |
-| Product systems / 产品系统 | Flutter 客户端、Java/Quarkus 后端、业务流程、协作与管理工具<br/>Flutter clients, Java/Quarkus backends, business workflows, collaboration, and admin tools | [`Final-Assignment`](https://github.com/tutict/Final-Assignment), [`kiniu`](https://github.com/tutict/kiniu), [`neusoft-hospital`](https://github.com/tutict/neusoft-hospital) |
-
-## Tech Stack
 
 <p align="center">
-  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></a>
-  <a href="https://quarkus.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white" alt="Quarkus" /></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
-  <a href="https://www.langchain.com/langgraph" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" /></a>
-  <a href="https://dart.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /></a>
-  <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /></a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Rust-CE412B?style=flat-square&logo=rust&logoColor=white" alt="Rust" /></a>
-  <a href="https://tauri.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" alt="Tauri" /></a>
-  <a href="https://go.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" /></a>
-  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://godotengine.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot" /></a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" /></a>
+  <a href="https://github.com/tutict">GitHub @tutict</a>
+  ·
+  <a href="https://github.com/tutict?tab=repositories">Explore repositories</a>
 </p>
 
-## Selected Projects
+> 我喜欢把模糊的想法拆成可以运行的工作流，再用证据、测试和可复盘的交付记录把它做实。
+>
+> 钱冇样衰人戆居。
+
+## Engineering Console / 工程控制台
+
+| Signal | Current state |
+| --- | --- |
+| `BUILDING` | AI agents、workflow tools、local-first desktop apps |
+| `METHOD` | evidence-first · 可验证 · 缺失不伪造 · 本地优先 |
+| `SURFACES` | 桌面端 · 移动端 · 后端服务 · 游戏原型 |
+| `STACK` | Rust · TypeScript · Python · Java · Dart · Flutter · Tauri |
+
+## What I Build / 我在构建什么
+
+| Direction | Focus |
+| --- | --- |
+| **AI agents & workflows** | Agent 编排、执行图、Prompt-to-Playable、RAG、验证与修复闭环。 |
+| **Local-first tools** | 桌面工作台、离线可用、本地持久化、安全配置与可复盘运行记录。 |
+| **Product systems** | Flutter 客户端、Java/Quarkus 服务、实时通信、异步事件与业务流程。 |
+
+## Selected Systems / 代表项目
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/tutict/gp-assistant">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tutict&repo=gp-assistant&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="gp-assistant" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>01 · <a href="https://github.com/tutict/gp-assistant">gp-assistant</a></h3>
+      <p>A 股研究与选股工作台，把行情观察、筛选、回测、新闻证据与 AI research agent 放进同一条研究链路。</p>
+      <sub>Rust · Tauri · React · quantitative finance</sub>
     </td>
-    <td width="50%">
-      <a href="https://github.com/tutict/Fantasy-Agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tutict&repo=Fantasy-Agent&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="Fantasy-Agent" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/tutict/enterprise-insight-platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tutict&repo=enterprise-insight-platform&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="enterprise-insight-platform" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/tutict/Final-Assignment">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tutict&repo=Final-Assignment&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="Final-Assignment" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>02 · <a href="https://github.com/tutict/Fantasy-Agent">Fantasy-Agent</a></h3>
+      <p>AI 原生 Prompt-to-Playable 游戏生产工作台，把玩法想法推进成可检查、可执行、可测试的垂直切片。</p>
+      <sub>Python · multi-agent workflow · game prototyping</sub>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/tutict/DevQRH">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tutict&repo=DevQRH&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="DevQRH" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>03 · <a href="https://github.com/tutict/MMGH">MMGH</a></h3>
+      <p>本地优先的个人 Agent 工作台，连接会话、知识、提醒、技能和日常任务流。</p>
+      <sub>Rust · Tauri · React · local-first desktop</sub>
     </td>
-    <td width="50%">
-      <a href="https://github.com/tutict/MicroFlow">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tutict&repo=MicroFlow&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="MicroFlow" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>04 · <a href="https://github.com/tutict/enterprise-insight-platform">enterprise-insight-platform</a></h3>
+      <p>面向 FDE 交付的 AI workflow 工作台，把执行图、代码扫描、Agent 运行、验证修复和交付证据串起来。</p>
+      <sub>Java · workflow orchestration · delivery evidence</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>05 · <a href="https://github.com/tutict/MicroFlow">MicroFlow</a></h3>
+      <p>本地优先的 AI 协作工作台，整合工作区消息、实时通信、Agent 调用和部署配对。</p>
+      <sub>Dart · Flutter · WebSocket · collaboration</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>06 · <a href="https://github.com/tutict/Final-Assignment">Final-Assignment</a></h3>
+      <p>Flutter + Spring Boot 全栈业务系统，覆盖权限、异步事件、RAG、实时进度和工程化实验。</p>
+      <sub>Java · Spring Boot · Flutter · Kafka</sub>
     </td>
   </tr>
 </table>
 
-## Project Snapshot / 项目速览
+## How I Work / 我怎么做
 
-| Project | 中文 | English |
-| --- | --- | --- |
-| [`gp-assistant`](https://github.com/tutict/gp-assistant) | 面向 A 股研究的智能选股助手，覆盖行情观察、条件选股、关系图选股、趋势指标、回测验证和产业链消息 RAG | An A-share research assistant with market views, screeners, relationship-graph selection, trend signals, backtesting, and industry-chain RAG |
-| [`enterprise-insight-platform`](https://github.com/tutict/enterprise-insight-platform) | 面向 FDE 交付的 AI 工程工作台，把业务分析、代码扫描、Playbook、Agent 执行、验证修复和交付证据串成可审计链路 | An FDE delivery workbench connecting business analysis, code scanning, playbooks, agent execution, verification, repair, and delivery evidence |
-| [`Fantasy-Agent`](https://github.com/tutict/Fantasy-Agent) | AI 原生多智能体游戏生产平台，将玩法想法推进为可检查、可执行、可测试的 game jam 级原型流程 | An AI-native multi-agent game production platform for turning gameplay ideas into testable vertical-slice prototypes |
-| [`DevQRH`](https://github.com/tutict/DevQRH) | Flutter 事故手册应用，桌面端可接入本地 Go RAG sidecar，在 Agent 页提供检索增强回答 | A Flutter incident handbook with an optional local Go RAG sidecar for grounded desktop answers |
-| [`MicroFlow`](https://github.com/tutict/MicroFlow) | 本地优先的 AI 协作工作台，整合登录、工作区消息、WebSocket 实时通信、Agent 调用和部署配对 | A local-first AI collaboration workspace with auth, workspace chat, realtime messaging, agent runs, and pairing flows |
-| [`MMGH`](https://github.com/tutict/MMGH) | Rust + Tauri + React 桌面 Agent 工作台，整合会话、知识、提醒、技能和日常任务流 | A Rust, Tauri, and React desktop agent deck for conversations, knowledge, reminders, skills, and daily workflows |
-| [`Final-Assignment`](https://github.com/tutict/Final-Assignment) | 交通违法处理管理系统，采用 Flutter 前端与 Java 后端架构 | A traffic violation handling management system built with Flutter frontend and Java backend architecture |
-| [`kiniu`](https://github.com/tutict/kiniu) | 围绕 AI 角色扮演议题持续开发的 Java 项目 | A Java project developed around an AI role-playing product idea |
+1. **先把问题变成可执行的工作流**：明确输入、边界、工具调用和交付结果。
+2. **让结果带着证据**：保留来源、时间、缺失项、运行记录和可以复核的中间状态。
+3. **缺失不伪造**：没有数据就明确标注，不用看起来完整的假值掩盖不确定性。
+4. **把验证放回闭环**：测试、回测、运行复盘、修复和再次验证都属于产品的一部分。
 
-## GitHub Pulse
+## Toolkit / 技术栈
+
+| Capability | Tools & concepts |
+| --- | --- |
+| **AI & Workflow** | `LangGraph` · `RAG` · `Agent orchestration` · `Prompt-to-Playable` · `backtesting` |
+| **Desktop & Client** | `Rust` · `Tauri` · `React` · `TypeScript` · `Flutter` · `Dart` |
+| **Backend** | `Java` · `Spring Boot` · `Quarkus` · `Python` · `FastAPI` · `Go` |
+| **Engineering** | `Kafka` · `WebSocket` · `CI/CD` · `local-first` · `verification` |
+
+## Other Builds / 其他实验
+
+- [`DevQRH`](https://github.com/tutict/DevQRH) — Flutter 故障处置手册 + 本地 Go RAG sidecar。
+- [`GamePulse`](https://github.com/tutict/GamePulse) — 持续探索中的 TypeScript 游戏项目。
+- [`kiniu`](https://github.com/tutict/kiniu) — 围绕 AI 角色扮演议题持续开发的 Java 项目。
+- [`emacs-lisp-reference-manual-zh_cn`](https://github.com/tutict/emacs-lisp-reference-manual-zh_cn) — 面向中文阅读体验的 Emacs Lisp 手册整理。
+- [`vim-settings`](https://github.com/tutict/vim-settings) — 长期使用的 Vim 配置与工作流记录。
+
+## GitHub Signal / 活动信号
+
+动态统计不应该遮住真正的作品。主页首屏使用本地工程流程卡片，项目状态与最新代码以 GitHub 仓库为准：
+
+- [查看完整活动记录](https://github.com/tutict)
+- [浏览所有公开仓库](https://github.com/tutict?tab=repositories)
+
+## Connect / 联系
 
 <p align="center">
-  <img height="165" src="assets/github-pulse.svg" alt="GitHub profile summary" />
-  <img height="165" src="https://streak-stats.demolab.com?user=tutict&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub streak" />
+  <a href="https://github.com/tutict">GitHub @tutict</a>
+  ·
+  <a href="https://github.com/tutict?tab=repositories">所有公开仓库</a>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tutict&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" alt="GitHub activity graph" />
+  <sub>Build deliberately. Verify honestly. Ship something useful.</sub>
 </p>
-
-## Connect
-
-<p align="center">
-  <a href="https://github.com/tutict">
-    <img src="https://img.shields.io/badge/GitHub-tutict-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://github.com/tutict?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-Repositories-1a5490?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-  </a>
-</p>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,55:1a5490,100:58a6ff" alt="Footer" />
-</div>
